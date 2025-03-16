@@ -23,5 +23,5 @@ Check out the live demo here: [eCommerce App](https://ecommerce-app-lemon-iota.v
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/MustafaHamidi/ecommerce-frontend.git
+   git clone https://github.com/Mustafahamidi/Ecommerce-app.git
    cd ecommerce-frontend
