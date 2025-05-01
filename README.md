@@ -1,45 +1,28 @@
-# 🛍️ Full Stack E-commerce App
+# eCommerce Frontend
 
 ## Overview
-This is a full-stack eCommerce application that allows users to browse products, add them to the cart, and complete purchases securely. It includes a React.js frontend and a Node.js/Express backend with MongoDB for data storage.
+This is the frontend of an eCommerce application built using modern web technologies. The application allows users to browse products, add items to the cart, and complete purchases securely.
 
-## 🔗 Live Demo
+## Live Demo
 Check out the live demo here: [eCommerce App](https://ecommerce-app-lemon-iota.vercel.app/)
 
-## ✨ Features
-- Product listing and detailed product pages
-- Add to cart and remove from cart
-- Secure checkout process
-- User authentication (signup/login)
-- Order history
-- Admin dashboard for product and order management
-- Responsive design for all devices
+## Features
+- Product listing and details page
+- Shopping cart and checkout process
+- Responsive design
 
-## 🧰 Technologies Used
-
-### Frontend
-- React.js
-- Redux Toolkit
+## Technologies Used
+- React.js (with Redux for state management)
 - Tailwind CSS
-- Axios
+- Axios (for API requests)
 
-### Backend
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- JSON Web Tokens (JWT)
-- bcrypt.js
-
-## 🚀 Installation & Setup
-
+## Installation & Setup
 ### Prerequisites
-- Node.js and npm installed
-- MongoDB (local or MongoDB Atlas)
+- Node.js installed
 
 ### Steps
-
-#### 1. Clone the repository
-```bash
-git clone https://github.com/Mustafahamidi/Ecommerce-app.git
-cd Ecommerce-app
+1. Clone the repository:
+   
+sh
+   git clone https://github.com/Mustafahamidi/Ecommerce-app.git
+   cd ecommerce-frontend
