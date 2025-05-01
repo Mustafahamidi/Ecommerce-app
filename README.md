@@ -1,4 +1,4 @@
-# 🛍️ Full Stack eCommerce App
+# 🛍️ Full Stack E-commerce App
 
 ## Overview
 This is a full-stack eCommerce application that allows users to browse products, add them to the cart, and complete purchases securely. It includes a React.js frontend and a Node.js/Express backend with MongoDB for data storage.
